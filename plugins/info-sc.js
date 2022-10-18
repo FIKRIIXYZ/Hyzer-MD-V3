@@ -12,7 +12,7 @@ let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
 Recorde Sndiri :v`
-conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
+conn.sendBut(m.chat, esce, wm3, 'Thanks', '.tq', m) 
 }
 handler.help = ['sc', 'sourcecode']
 handler.tags = ['info']

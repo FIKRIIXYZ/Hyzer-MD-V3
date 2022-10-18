@@ -8,9 +8,6 @@ global.nameowner = 'Calissta Canss'
 global.numberowner = '6287830253813'
 global.instagram = 'https://instagram.com'
 global.github = 'https://github.com/'
-global.dana = '-'
-global.pulsa = '-'
-global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Bot Grup'

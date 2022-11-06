@@ -1,5 +1,5 @@
 let handler = async(m,{text, conn}) => {
-let supa = 'https://api.zacros.my.id/asupan/loli'
+let supa = 'https://caliphapi.com/api/asupanloli?apikey=5pSJCBIB'
 conn.sendFile(m.chat, supa, null, 'Nih', m)
 }
 handler.help = ['asupanloli']
